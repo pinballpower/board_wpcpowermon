@@ -147,7 +147,6 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
@@ -161,7 +160,6 @@
         0,
         1,
         0,
-        0,
         1,
         0,
         2,
@@ -175,7 +173,6 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
@@ -186,7 +183,6 @@
       [
         0,
         1,
-        0,
         0,
         0,
         0,
@@ -203,7 +199,6 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
@@ -212,26 +207,11 @@
         2
       ],
       [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      [
         1,
         1,
         1,
         1,
         1,
-        0,
         1,
         1,
         1,
@@ -244,7 +224,6 @@
         0,
         0,
         1,
-        0,
         0,
         1,
         0,
@@ -259,7 +238,6 @@
         1,
         2,
         0,
-        0,
         1,
         0,
         2,
@@ -273,7 +251,6 @@
         0,
         1,
         0,
-        0,
         1,
         0,
         2,
@@ -287,7 +264,6 @@
         1,
         1,
         0,
-        0,
         1,
         0,
         2,
@@ -296,7 +272,6 @@
         2
       ],
       [
-        2,
         2,
         2,
         2,
@@ -317,9 +292,7 @@
       "bus_to_net_conflict": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
-      "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
-      "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
@@ -333,8 +306,6 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "unannotated": "error",
-      "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
     }
@@ -344,7 +315,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "piamon.kicad_pro",
+    "filename": "wpcpowermon.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -368,7 +339,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -415,12 +386,8 @@
   },
   "sheets": [
     [
-      "3ad5c646-5dac-45f7-af8c-38e67a2fde67",
+      "44da2be1-8348-4150-9c57-b7384633eb54",
       ""
-    ],
-    [
-      "f668bf49-5a71-4b2f-ae61-919c8c48ee33",
-      "cpu"
     ]
   ],
   "text_variables": {}
