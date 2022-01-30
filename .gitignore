@@ -1,2 +1,5 @@
 *-backups 
 _autosave-*
+*.bak
+*-bak
+gerber*/*.zip
